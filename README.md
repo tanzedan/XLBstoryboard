@@ -2,8 +2,7 @@
 包拆拆 AI大模型多模态拆剧本/分镜
 # 包拆拆 / XLB Storyboard 用户手册
 
-> 适用版本：1.0.5
-> 完整在线手册：包拆拆用户手册（飞书）— https://nepelfbn8c.feishu.cn/wiki/HV1twBUy6il5CVkcNxscJbFGnAd
+> 完整在线手册(含下载)：包拆拆用户手册（飞书）— https://nepelfbn8c.feishu.cn/wiki/HV1twBUy6il5CVkcNxscJbFGnAd
 
 「包拆拆」是一款把视频拆成**剧本**与**分镜**的桌面工具（Electron）。本手册随每次版本合并更新，记录当前版本的使用方式。
 
